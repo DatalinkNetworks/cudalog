@@ -1,0 +1,11 @@
+[email]
+host = "smtp.office365.com"
+port = 587
+username = "user@email.com"
+password = "P@ssw0rd123"
+
+[firewalls]
+[firewalls.Firewall1]
+    host = "10.10.10.1"
+    port = 8443
+    apikey = "aA1bB2cC3dD4eE5fF6gG7hH8iI9jJ10x"
